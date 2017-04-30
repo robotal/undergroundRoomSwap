@@ -10,7 +10,7 @@ Date: April 29th, 2017
 Project Topic: A website for listing room-swap requests facilitated by exchange
 of money.
 
-URL: https://room-swap-final-project-kitgrgeumm.now.sh/
+URL: https://room-swap-final-project-vkimiarmxz.now.sh
 
 ---
 
@@ -27,6 +27,8 @@ Listing
 - `Field 5`:     Free Spots         `Type`: [RoomOpening]
 - `Field 6`:     Room Number        `Type`: Number
 - `Field 7`:     Bathrooms          `Type`: Number
+- `Field 8`:     Contact Point          `Type`: String
+
 
 RoomOpening
 - `Field 1`:     Vacancies       `Type`: Number
